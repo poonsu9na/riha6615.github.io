@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: RIHA # the main title
 
-tagline: Photo, Book, Golf, Run and Dev # it will display as the subtitle
+tagline: Photo, Book, Golf, Run and Tennis # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   단순히 정보를 나누는 공간을 넘어, 제가 좋아하는 것들과 배운 것들을 기록하고 정리하는 곳입니다. 다양한 관심사를 가진 사람들과 소통하며 서로 영감을 주고받을 수 있는 따뜻한 커뮤니티를 만들고 싶습니다.
@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: github_username # change to your GitHub username
+  username: poonsu9na # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: l_riha_ # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,8 +38,8 @@ social:
   email: poonsu@me.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/l_riha_ # change to your Twitter homepage
+    - https://github.com/poonsu9na # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
