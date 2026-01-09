@@ -5,7 +5,7 @@ date: 2024-11-12 10:28:16 +0900
 categories: ['Gallery', 'Nightscape']
 tags: [Gallery, Nightscape, iPhone12 Pro]
 image:
-  path: "/assets/img/2024-11-12-encountering-the-beauty-of-everyday-life-during-overtime.jpeg"
+  path: "/assets/img/gallery/2024-11-12-encountering-the-beauty-of-everyday-life-during-overtime.jpeg"
   alt: "인천 송도"
 published: true
 ---
