@@ -6,7 +6,7 @@ categories: ['Gallery', 'Cityscape']
 tags: [Gallery, Cityscape, iPhone12 Pro]
 image:
   path: "/assets/img/posts/whispers-of-autumn-in-the-city/APC_0017.jpeg"
-  alt: ""
+  alt: "붉게 물든 나뭇잎"
 published: true
 ---
 
